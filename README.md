@@ -1,5 +1,8 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+
+### Name: SHOBANA
+### Register Number: 212224230262
+
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,9 +47,18 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-
-### Name:
-### Register Number:
+ # STEP 1
+ <img width="1916" height="804" alt="Screenshot 2026-03-16 214706" src="https://github.com/user-attachments/assets/ff369301-14d6-4e3d-a419-153a78b5f2d5" />
+ # STEP 2
+<img width="1919" height="812" alt="Screenshot 2026-03-16 214720" src="https://github.com/user-attachments/assets/1fcc932c-733b-415f-9283-5632c5ebcabd" />
+ # STEP 3
+<img width="1919" height="805" alt="Screenshot 2026-03-16 214730" src="https://github.com/user-attachments/assets/1365d83f-3535-41ce-9f9b-ff79605f9133" />
+ # STEP 4
+ <img width="1919" height="901" alt="Screenshot 2026-03-16 214745" src="https://github.com/user-attachments/assets/e51bcd89-4556-47af-acb5-15b4a31b0ee9" />
+ # STEP 5
+ <img width="1917" height="874" alt="Screenshot 2026-03-16 214800" src="https://github.com/user-attachments/assets/18e0ffa3-e9a8-48b5-af00-5791c029eadb" />
+ # STEP 6
+ <img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/388de401-4336-48ba-9c98-cae2ca965ac6" />
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
